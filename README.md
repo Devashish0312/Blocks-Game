@@ -10,4 +10,4 @@ d- right
 Four Level 3D Runner
 
 
-./Screenshot.png
+![Actual Gameplay](./Screenshot.png)
